@@ -19,6 +19,6 @@ Nowadays, IT is a very popular sphere, so nothing strange that I am interested Q
 
 ## My projects:
 [DareIT Challenge](https://challenges.dareit.io/)
-[Link to GitHub challenge pati](https://github.com/Anet-94/challenge_portfolio_pati)
-[Link to GitHub robotframework](https://github.com/Anet-94/challenge_portfolio_pati_robotframework)
-[Link to bugs](https://drive.google.com/drive/folders/18VHL-2iivVgkVosarxy8yAcAVbDlfbaf) for the site [https://scouts.futbolkolektyw.pl/en/](https://scouts.futbolkolektyw.pl/en/)
+* [Link to GitHub challenge pati](https://github.com/Anet-94/challenge_portfolio_pati)
+* [Link to GitHub robotframework](https://github.com/Anet-94/challenge_portfolio_pati_robotframework)
+* [Link to bugs](https://drive.google.com/drive/folders/18VHL-2iivVgkVosarxy8yAcAVbDlfbaf) for the site [https://scouts.futbolkolektyw.pl/en/](https://scouts.futbolkolektyw.pl/en/)
